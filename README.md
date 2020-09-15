@@ -1,2 +1,2 @@
 # DEMO-party-official-site
-*hehe*
+Inside you will find the cource code for the offical DEMO party website
