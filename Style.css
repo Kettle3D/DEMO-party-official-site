@@ -1,21 +1,14 @@
+p, h2, h1 {
+  color: purple;
+  font-family: Verdana, Calibri, Arial, Helvetica, sans-serif;
+  font-size: 150%;
+  text-align:center;
+}
+
 h1 {
-  color: white;
-  font-family: verdana;
   font-size: 400%;
-  text-align:center;
 }
-p {
-  color: purple;
-  font-family: verdana;
-  font-size: 150%;
-  text-align:center;
-}
-h2 {
-  color: purple;
-  font-family: verdana;
-  font-size: 150%;
-  text-align:center
-}
+
 ul {
   list-style-type: none;
   margin: 0;
