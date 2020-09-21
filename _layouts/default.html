@@ -2,10 +2,10 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <link rel="stylesheet" href="/DEMO-party-official-site/Style.css" />
   {%- include head.html -%}
-  <body style="overflow-y: hidden; overflow-x: hidden;">
+  <body style="overflow-y: auto; overflow-x: hidden;">
     {%- include header.html -%}
     <main class="page-content" aria-label="Content">
-      <div class="wrapper" id="mainContent" style="overflow-x: hidden; overflow-y :auto;">
+      <div class="wrapper" id="mainContent" style="overflow-x: hidden; overflow-y: auto;">
         <div id="top"/>
         {{ content }}
         <br>
