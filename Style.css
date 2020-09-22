@@ -17,6 +17,7 @@ h1 {
   font-family: Verdana, Calibri, Arial, Helvetica, sans-serif;
   font-size: 400%;
   text-align: center;
+  background-color: rgba(139, 66, 255, 1);
 }
 
 main > div > div > h1 {
