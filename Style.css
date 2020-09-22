@@ -44,5 +44,6 @@ li a:hover {
 }
 
 img {
+  display: inline;
   align-self: center;
 }
