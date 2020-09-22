@@ -20,7 +20,8 @@ Ministers
 Health Minister
 ---------------
 
-![health](https://raw.githubusercontent.com/CYBORG123456789/DEMO-party-official-site/master/assets/health.png)
+![stethoscope](https://raw.githubusercontent.com/CYBORG123456789/DEMO-party-official-site/master/assets/health.png)
+
 **Raymond Yang**
 
 --------------------------
@@ -28,7 +29,8 @@ Health Minister
 Finance Minister
 ----------------
 
-![finance](https://raw.githubusercontent.com/CYBORG123456789/DEMO-party-official-site/master/assets/Finance%20thing.png)
+![tax](https://raw.githubusercontent.com/CYBORG123456789/DEMO-party-official-site/master/assets/Finance%20thing.png)
+
 **Odin Hyink**
 
 --------------------------
@@ -37,6 +39,7 @@ Education Minister
 ------------------
 
 ![books](https://raw.githubusercontent.com/CYBORG123456789/DEMO-party-official-site/master/assets/education.png)
+
 **Story Boraman-Ritchie**
 
 ---------------------------
@@ -45,6 +48,7 @@ Enviroment Minister
 -------------------
 
 ![plants](https://raw.githubusercontent.com/CYBORG123456789/DEMO-party-official-site/master/assets/Enviroment.png.jpg)
+
 **Raymond Yang**
 
 ---------------------------
